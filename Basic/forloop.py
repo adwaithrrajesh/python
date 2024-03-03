@@ -6,3 +6,4 @@ for i in range(1,6):
     char = "hello"
     for i in char:
         print(i)
+        
